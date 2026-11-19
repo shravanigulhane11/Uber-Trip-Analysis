@@ -34,6 +34,18 @@ This project analyzes Uber pickup data in New York City to understand trip patte
 - Compared daily pickup activity.
 - Identified the base with the highest number of recorded pickups.
 - Used visualizations to understand demand distribution.
+  ## Skills Demonstrated
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Manipulation using Pandas
+- Data Visualization using Matplotlib and Seaborn
+- Identifying trends and patterns
+- Analytical thinking and interpretation
+
+## Future Improvements
+- Analyze pickup demand by location.
+- Explore weekday versus weekend trends.
+- Build an interactive dashboard using Power BI.
 
 ## Project Files
 - `Uber_Trip_Analysis.ipynb` – Complete Python analysis and visualizations.
